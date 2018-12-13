@@ -7,4 +7,5 @@ void main()
   printf("Enter 2 numbers to add:");
     scanf("%d %d",&a,&b);
   printf("Sum is %d",a+b);
+    printf("Multiplication of 2 numbers is:%d",a*b);
  }

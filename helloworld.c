@@ -14,4 +14,6 @@ void main()
     printf("\n After harishpillai gave pull request this is now the state of the file");
     printf("\n This is the version after issue added by harishpillai.")
     
+        printf("\n This fixes issue #4");
+        printf("Issue keyword in comment shows that issue has been fixed.");
 }

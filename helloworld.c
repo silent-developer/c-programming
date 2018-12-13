@@ -16,4 +16,7 @@ void main()
     
         printf("\n This fixes issue #4");
         printf("Issue keyword in comment shows that issue has been fixed.");
+    printf("\n This fixes issue #4");
+        printf("Issue keyword in comment shows that issue has been fixed.");
+}
 }
